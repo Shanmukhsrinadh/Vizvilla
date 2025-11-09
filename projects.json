@@ -1,0 +1,557 @@
+{
+    "vizianagaram": {
+        "cityName": "Vizianagaram",
+        "heroImage": "img/vizianagaram-hero.png",
+        "locations": {
+            "Raghumanda": {
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Eastern_Ghats_view_near_Sontivanipalem.jpg/1280px-Eastern_Ghats_view_near_Sontivanipalem.jpg",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3802.123456789012!2d83.123456!3d17.987654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDU5JzE1LjUiTiA4M8KwMDcnMjguNiJF!5e0!3m2!1sen!2sin!4v1234567890",
+                "keypoints": [
+                    {
+                        "title": "Strategic Location",
+                        "description": "Prime location with excellent connectivity to city center"
+                    },
+                    {
+                        "title": "Growing Infrastructure",
+                        "description": "Rapid development with new roads and utilities"
+                    },
+                    {
+                        "title": "Residential Hub",
+                        "description": "Emerging as a preferred residential area"
+                    },
+                    {
+                        "title": "Investment Potential",
+                        "description": "High appreciation potential with upcoming developments"
+                    }
+                ],
+                "about": "Raghumanda is a rapidly developing locality in Vizianagaram, known for its strategic location and excellent connectivity. The area is witnessing significant infrastructure development and is emerging as a prime residential destination.",
+                "developmentPlans": "The area is part of Vizianagaram's expansion plans with new road projects, utility upgrades, and commercial developments planned. Several residential projects are underway, making it a hotspot for real estate investment.",
+                "investmentPotential": "Raghumanda offers excellent investment opportunities with property values expected to appreciate significantly over the next 3-5 years. The area's development plans and growing demand make it an attractive option for investors.",
+                "connectivity": "Well-connected to Vizianagaram city center via major roads. Easy access to public transportation and proximity to key amenities like schools, hospitals, and shopping centers.",
+                "projects": {
+                    "TRUE EMPIRE COMMERICAL BLOCK": {
+                        "description": "True Empire is a premium residential project offering luxurious 2 & 3 BHK apartments with modern amenities and excellent connectivity.",
+                        "benefits": "Premium lifestyle with modern amenities, excellent location, and high investment returns.",
+                        "features": [
+                            "Modern Clubhouse",
+                            "Swimming Pool",
+                            "Landscaped Gardens",
+                            "24/7 Security",
+                            "Power Backup",
+                            "Children's Play Area"
+                        ],
+                        "connectivity": [
+                            "5 mins from City Center",
+                            "10 mins from Railway Station",
+                            "Close to Major Schools",
+                            "Easy access to Hospitals"
+                        ],
+                        "investment": [
+                            "High Appreciation Potential",
+                            "Rental Yield: 4-5%",
+                            "Ready to Move",
+                            "Flexible Payment Plans"
+                        ],
+                       "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d17999.556894171492!2d83.44470814224039!3d18.046540261764047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzM2LjUiTiA4M8KwMjUnMjAuMSJF!5e1!3m2!1sen!2sin!4v1762248026481!5m2!1sen!2sin",
+                        "images": [
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (1).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (2).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (3).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (4).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (5).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (6).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (7).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Commerical/img/img (8).jpeg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_TRUE_EMPIRE",
+                        "videoThumbnail": "Vizianagaram/Raghumanda/True Empire Commerical/vid/Thumbnail.mp4"
+                    },
+                    "TRUE EMPIRE DELUXE BLOCK": {
+                        "description": "True Commercial offers premium commercial spaces for businesses looking to establish in the growing Raghumanda area.",
+                        "benefits": "Prime commercial location with high footfall and excellent business potential.",
+                        "features": [
+                            "Premium Commercial Spaces",
+                            "Ample Parking",
+                            "Modern Facilities",
+                            "24/7 Security",
+                            "Power Backup",
+                            "High Visibility"
+                        ],
+                        "connectivity": [
+                            "Main Road Frontage",
+                            "Easy access to Highway",
+                            "Close to Residential Areas",
+                            "Public Transport Nearby"
+                        ],
+                        "investment": [
+                            "High Rental Demand",
+                            "Capital Appreciation",
+                            "Business Growth Potential",
+                            "Flexible Space Options"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d17999.556894171492!2d83.44470814224039!3d18.046540261764047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzM2LjUiTiA4M8KwMjUnMjAuMSJF!5e1!3m2!1sen!2sin!4v1762248026481!5m2!1sen!2sin",
+                        "images": [
+                            "Vizianagaram/Raghumanda/True Empire Deelux/img/img (1).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Deelux/img/img (2).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Deelux/img/img (3).jpeg",
+                            "Vizianagaram/Raghumanda/True Empire Deelux/img/img (4).jpeg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_TRUE_COMMERCIAL",
+                        "videoThumbnail": "Vizianagaram/Raghumanda/True Empire Commerical/vid/Thumbnail.mp4"
+                    }
+                }
+            }
+        }
+    },
+    "srikakulam": {
+        "cityName": "Srikakulam",
+        "heroImage": "img/srikakulam-hero.png",
+        "locations": {
+            "Karlam jn": {
+                "thumbnail": "img/srikakulam-town-thumb.jpg",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.123456789012!2d83.897654!3d18.296543!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3a5356d6b3f3b5%3A0x2c4f18b2691bc39!2sSrikakulam%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743795100000!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "District Headquarters",
+                        "description": "Administrative center with all government facilities and offices"
+                    },
+                    {
+                        "title": "Commercial Hub",
+                        "description": "Major commercial and business center with thriving markets"
+                    },
+                    {
+                        "title": "Educational Institutions",
+                        "description": "Home to schools, colleges, and training centers"
+                    },
+                    {
+                        "title": "Healthcare Facilities",
+                        "description": "Well-equipped hospitals and medical facilities"
+                    },
+                    {
+                        "title": "Cultural Center",
+                        "description": "Rich cultural heritage with temples and historical sites"
+                    }
+                ],
+                "about": "Srikakulam Town is the district headquarters and a major commercial hub in northern Andhra Pradesh. It offers excellent infrastructure, educational institutions, healthcare facilities, and is known for its rich cultural heritage. The town is experiencing rapid urbanization and development.",
+                "developmentPlans": "Ongoing urban development projects including road widening, commercial complexes, residential townships, and improved public amenities. The government has allocated funds for infrastructure upgrades and smart city initiatives.",
+                "investmentPotential": "Stable real estate market with consistent demand for both residential and commercial properties. Property values have shown steady appreciation over the years with good rental yields.",
+                "connectivity": "Well-connected by road and rail networks. Located on NH16 with easy access to Visakhapatnam and other major cities. Regular bus services and railway connectivity available.",
+                "projects": {
+                    "TRUE GOLD": {
+                        "description": "Srikakulam Heights is a premium residential apartment complex offering modern 2 & 3 BHK apartments in the heart of Srikakulam Town. Designed for comfortable urban living with all essential amenities.",
+                        "benefits": "Central location with modern amenities, excellent connectivity, and high-quality construction. Perfect for families looking for a convenient urban lifestyle.",
+                        "features": [
+                            "Modern 2 & 3 BHK Apartments",
+                            "Spacious Clubhouse",
+                            "Swimming Pool",
+                            "24/7 Security with CCTV",
+                            "Complete Power Backup",
+                            "Beautifully Landscaped Gardens",
+                            "Children's Play Area",
+                            "Adequate Parking Space"
+                        ],
+                        "connectivity": [
+                            "Located in City Center",
+                            "2 km from Railway Station",
+                            "1 km from Bus Stand",
+                            "Near Major Schools and Colleges",
+                            "Close to Government Hospitals",
+                            "Walking distance to Markets"
+                        ],
+                        "investment": [
+                            "Stable Capital Appreciation",
+                            "High Rental Demand",
+                            "Ready to Move-in",
+                            "Good Resale Value",
+                            "Rental Yield: 3-4%",
+                            "Appreciation: 8-10% annually"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4493.858750574956!2d83.63848157518586!3d18.28073798276687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDE2JzUwLjciTiA4M8KwMzgnMjcuOCJF!5e1!3m2!1sen!2sin!4v1762254445161!5m2!1sen!2sin",
+                        "images": [
+                            "Srikakulam/Karlam jn/True Gold/img/img (1).jpeg",
+                            "Srikakulam/Karlam jn/True Gold/img/img (2).jpeg",
+                            "Srikakulam/Karlam jn/True Gold/img/img (3).jpeg",
+                            "Srikakulam/Karlam jn/True Gold/img/img (4).jpeg",
+                            "Srikakulam/Karlam jn/True Gold/img/img (5).jpeg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_SRIKAKULAM_HEIGHTS",
+                        "videoThumbnail": "videos/srikakulam-heights-preview.mp4"
+                    }
+                }
+            }
+        }
+    },
+    "amaravati": {
+        "cityName": "Amaravati",
+        "heroImage": "img/amaravati-hero.png",
+        "locations": {
+            "kaza": {
+                "thumbnail": "https://i.pinimg.com/736x/65/e3/ec/65e3ec919b9ad656f7acddfaa2ba22d3.jpg",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.123456789012!2d80.516745!3d16.506789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35effe5bd4b3c3%3A0x2c4f18b2691bc39!2sAmaravati%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743795000000!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "Capital Region",
+                        "description": "Prime location in the Amaravati capital region with strategic importance"
+                    },
+                    {
+                        "title": "Infrastructure Development",
+                        "description": "Major infrastructure projects and urban development underway"
+                    },
+                    {
+                        "title": "Investment Hotspot",
+                        "description": "High investor interest with significant appreciation potential"
+                    },
+                    {
+                        "title": "Modern Planning",
+                        "description": "Designed with world-class urban planning and sustainable features"
+                    },
+                    {
+                        "title": "Government Focus",
+                        "description": "Priority area for government development and investments"
+                    }
+                ],
+                "about": "Kaza is a strategically located area in the Amaravati capital region, offering excellent investment opportunities with ongoing infrastructure development. The area is part of the planned capital city with modern amenities and sustainable urban planning.",
+                "developmentPlans": "Part of the Amaravati capital development master plan with new roads, utilities, government complexes, and commercial projects. Focus on smart city features and sustainable development.",
+                "investmentPotential": "High growth potential with significant capital appreciation expected in the coming years. Early investment opportunities in a developing capital region.",
+                "connectivity": "Excellent connectivity to Amaravati city center and major transportation networks. Well-connected through highways and proposed metro system.",
+                "projects": {
+                    "Beverly Hills": {
+                        "description": "Beverly Hills is a luxury residential project in the prime Kaza area of Amaravati, offering premium villas and apartments with world-class amenities. Designed for elite living in the capital region.",
+                        "benefits": "Premium lifestyle in the capital region with luxury amenities, high security, and excellent investment potential. Perfect for those seeking exclusive living spaces.",
+                        "features": [
+                            "Luxury Villas & Apartments",
+                            "Premium Clubhouse",
+                            "Swimming Pool & Gym",
+                            "Landscaped Gardens",
+                            "24/7 Security with Surveillance",
+                            "Power Backup",
+                            "Jogging Tracks",
+                            "Children's Play Area",
+                            "Community Center",
+                            "Underground Parking"
+                        ],
+                        "connectivity": [
+                            "Prime location in Capital Region",
+                            "Easy access to Government Complexes",
+                            "Close to Proposed Metro Stations",
+                            "Connected to Major Highways",
+                            "Proximity to International Airport",
+                            "Near Educational & Healthcare Hubs"
+                        ],
+                        "investment": [
+                            "High Capital Appreciation",
+                            "Premium Rental Returns",
+                            "Luxury Segment Investment",
+                            "Government Development Focus",
+                            "Early Bird Advantage",
+                            "Expected Appreciation: 15-20% annually"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.123456789012!2d80.516745!3d16.506789!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a35effe5bd4b3c3%3A0x2c4f18b2691bc39!2sAmaravati%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743795000000!5m2!1sen!2sin",
+                        "images": [
+                            "Amaravati/Kaza/Bevarly hills/img/Layout.png",
+                            "img/beverly-hills-2.jpg",
+                            "img/beverly-hills-3.jpg",
+                            "img/beverly-hills-4.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_BEVERLY_HILLS",
+                        "videoThumbnail": "Amaravati/Kaza/Bevarly hills/vid/Thumbnail.mp4"
+                    }
+                }
+            }
+        }
+    },
+    "visakhapatnam": {
+        "cityName": "Visakhapatnam",
+        "heroImage": "img/vizag-hero.png",
+        "locations": {
+            "Bhogapuram": {
+                "thumbnail": "Visakhapatnam/Bhogapuram/test.webp",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9000.571732677045!2d83.4889711944626!3d18.031033333840497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3bfc035b72afbd%3A0x9cedf0a198315112!2sBhogapuram%2C%20Andhra%20Pradesh%20535216!5e1!3m2!1sen!2sin!4v1743707807019!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "Upcoming International Airport",
+                        "description": "Bhogapuram will host Vizag's new international airport, boosting connectivity and value"
+                    },
+                    {
+                        "title": "Strategic Location",
+                        "description": "Situated along the Vizianagaram-Visakhapatnam growth corridor"
+                    },
+                    {
+                        "title": "Infrastructure Development",
+                        "description": "New roads, utilities, and commercial hubs planned"
+                    },
+                    {
+                        "title": "Investment Potential",
+                        "description": "Early investment opportunities with high appreciation expected"
+                    },
+                    {
+                        "title": "Proximity to Vizag",
+                        "description": "Just 40km from Visakhapatnam city center"
+                    }
+                ],
+                "about": "Bhogapuram is transforming into a major real estate hub with the upcoming international airport project. This strategic location offers excellent connectivity to both Vizianagaram and Visakhapatnam, making it ideal for residential and commercial investments. The area is witnessing rapid infrastructure development and is poised for significant appreciation in property values.",
+                "developmentPlans": "The Andhra Pradesh government has earmarked Bhogapuram for major development including the international airport, associated aerotropolis, and improved road connectivity. These developments are expected to attract businesses, create employment opportunities, and drive demand for housing in the region.",
+                "investmentPotential": "Early investors in Bhogapuram are positioned to benefit from substantial capital appreciation as infrastructure projects are completed. Current property prices are reasonable compared to established areas of Visakhapatnam, offering excellent growth potential over the next 5-10 years.",
+                "connectivity": "Bhogapuram enjoys excellent connectivity via NH16 and the proposed new access roads to the airport. The area is well-connected to Vizianagaram (25km) and Visakhapatnam (40km), with plans for improved public transportation links as development progresses.",
+                "projects": {
+                    "Aero Square": {
+                        "description": "A premium residential project strategically located near the upcoming Bhogapuram International Airport. This gated community offers modern amenities, secure living, and excellent appreciation potential.",
+                        "benefits": "Aero Square offers a unique combination of modern living and investment potential. With the upcoming international airport just minutes away, residents will enjoy unparalleled connectivity while benefiting from the peaceful surroundings of Bhogapuram.",
+                        "features": [
+                            "Gated community with 24/7 security",
+                            "Clubhouse, gym & swimming pool",
+                            "Landscaped gardens & children's play area",
+                            "Proximity to airport & business district",
+                            "Variety of unit sizes from 2BHK to 4BHK"
+                        ],
+                        "connectivity": [
+                            "10 mins to proposed airport terminal",
+                            "Easy access to NH16",
+                            "Proposed metro connectivity"
+                        ],
+                        "investment": [
+                            "Expected 20-25% annual appreciation",
+                            "Rental demand from airport staff",
+                            "First-mover advantage in the area"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3600.7137198591063!2d83.495175!3d18.0556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAzJzIwLjIiTiA4M8KwMjknNDIuNiJF!5e1!3m2!1sen!2sin!4v1743713727317!5m2!1sen!2sin",
+                        "images": [
+                            "Visakhapatnam/Bhogapuram/Aerosquare/img/Layout.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerosquare/img/img1.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerosquare/img/img2.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerosquare/img/img3.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerosquare/img/img4.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_AERO_SQUARE",
+                        "videoThumbnail": "Visakhapatnam/Bhogapuram/aerosquare/Videos/Thumbnail.mp4"
+                    },
+                    "Aero Destiny": {
+                        "description": "Luxury apartments with panoramic views of the surrounding landscape, offering premium living spaces with high-end finishes.",
+                        "benefits": "Aero Destiny provides breathtaking views and luxurious living spaces designed for those who appreciate quality and comfort.",
+                        "features": [
+                            "Premium finishes and fixtures",
+                            "Rooftop terrace with city views",
+                            "Walking distance to proposed commercial center",
+                            "Underground parking available",
+                            "Smart home features"
+                        ],
+                        "connectivity": [
+                            "Direct access to main arterial roads",
+                            "Close to proposed shopping district",
+                            "Easy highway access"
+                        ],
+                        "investment": [
+                            "Premium property with strong demand",
+                            "Limited units available",
+                            "High-end rental potential"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4663.181696189621!2d83.48198217518!3d18.03564548296633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAyJzA4LjMiTiA4M8KwMjknMDQuNCJF!5e1!3m2!1sen!2sin!4v1760720502031!5m2!1sen!2sin",
+                        "images": [
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/layout.png",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img1.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img2.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img3.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img4.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img5.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img6.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img7.jpg",
+                            "Visakhapatnam/Bhogapuram/Aerodestiny/img/img8.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/file/d/1HVtWsTwwttL5v9_CzEkWPYxtIy1BYjQm/view?usp=sharing",
+                        "videoThumbnail": "Visakhapatnam/Bhogapuram/Aerodestiny/vid/Thumbnail.mp4"
+                    }
+                }
+            },
+            "Anandapuram": {
+                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/NH5_at_Anandapuram_near_Vizag.jpg",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.357547252297!2d83.292!3d17.922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3942423f7e4fcd%3A0x4a2c3b9238a25351!2sAnandapuram%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743759911111!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "Strategic Industrial Location",
+                        "description": "Home to major industries including HPCL and other manufacturing units"
+                    },
+                    {
+                        "title": "Excellent Connectivity",
+                        "description": "Well-connected to Visakhapatnam city via NH16 and proposed metro routes"
+                    },
+                    {
+                        "title": "Growing Residential Hub",
+                        "description": "Rapid development of residential complexes and townships"
+                    },
+                    {
+                        "title": "Educational Institutions",
+                        "description": "Proximity to reputed schools and colleges in the region"
+                    },
+                    {
+                        "title": "Future Growth Potential",
+                        "description": "Identified as a key growth corridor in Vizag's master plan"
+                    }
+                ],
+                "about": "Anandapuram is a rapidly developing industrial and residential hub located on the outskirts of Visakhapatnam. Known for its strategic location along the NH16 corridor, the area is witnessing significant infrastructure development and urbanization. With major industries already established and more planned, Anandapuram offers excellent investment opportunities in both residential and commercial real estate.",
+                "developmentPlans": "The Andhra Pradesh government has identified Anandapuram as a key growth area in the Visakhapatnam Metropolitan Region Development Plan. Major developments include road widening projects, new industrial parks, and improved public transportation links. The area is also slated for new educational institutions and healthcare facilities to support the growing population.",
+                "investmentPotential": "Anandapuram presents strong investment potential with property values expected to appreciate significantly as infrastructure projects are completed. The area offers relatively affordable prices compared to central Visakhapatnam locations, with the added benefit of future growth prospects. Industrial and commercial properties are particularly in demand due to the area's industrial nature.",
+                "connectivity": "Anandapuram enjoys excellent connectivity via NH16, providing quick access to Visakhapatnam city center (25km) and other key locations. The area is well-served by public transportation, including buses and proposed metro extensions. Proximity to the Visakhapatnam Airport (35km) and upcoming Bhogapuram International Airport (50km) adds to its accessibility advantages.",
+                "projects": {
+                    "True Capital": {
+                        "description": "True Capital is a thoughtfully designed residential enclave offering a perfect blend of comfort, connectivity, and investment potential in the fast-growing corridor of Vizag.",
+                        "benefits": "True Capital offers strong long-term returns due to rapid infrastructure development and its strategic location connecting NH16 and major IT hubs.",
+                        "features": [
+                            "Spacious villas and apartments",
+                            "Jogging tracks and green parks",
+                            "Rainwater harvesting system",
+                            "Children's play zones and open spaces",
+                            "Close to reputed schools and hospitals"
+                        ],
+                        "connectivity": [
+                            "5 mins to NH16",
+                            "15 mins to IT SEZ and Madhurawada",
+                            "30 mins to Vizag city center"
+                        ],
+                        "investment": [
+                            "Steady appreciation in land value",
+                            "Preferred choice for IT professionals",
+                            "Upcoming commercial developments nearby"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d4665.4080033111295!2d83.36527037517803!3d17.951445483035183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTfCsDU3JzA1LjIiTiA4M8KwMjInMDQuMiJF!5e1!3m2!1sen!2sin!4v1761743752467!5m2!1sen!2sin",
+                        "images": [
+                            "Visakhapatnam/Anandhapuram/Truecapital/img/truecapital1.jpg",
+                            "Visakhapatnam/Anandhapuram/Truecapital/img/truecapital2.jpg",
+                            "Visakhapatnam/Anandhapuram/Truecapital/img/truecapital3.jpg",
+                            "Visakhapatnam/Anandhapuram/Truecapital/img/truecapital4.jpg",
+                            "Visakhapatnam/Anandhapuram/Truecapital/img/truecapital5.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/file/d/1a5if5u3xDkSJd_gR4pEYOOJDjJQGbODx/view?usp=sharing",
+                        "videoThumbnail": "Visakhapatnam/Anandhapuram/Truecapital/vid/Thumbnail.mp4"
+                    }
+                }
+            },
+            "kothavalasa": {
+                "thumbnail": "img/kothavalasa-thumb.jpg",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.591999918727!2d83.293!3d17.841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a395e6ef69bb3a5%3A0x36d8d099b45e2f34!2sKothavalasa%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743760034444!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "Railway Junction",
+                        "description": "Important railway station connecting Vizianagaram and Visakhapatnam"
+                    },
+                    {
+                        "title": "Growing Residential Area",
+                        "description": "Emerging as a preferred residential location with affordable properties"
+                    },
+                    {
+                        "title": "Industrial Proximity",
+                        "description": "Close to industrial areas and special economic zones"
+                    },
+                    {
+                        "title": "Educational Hub",
+                        "description": "Home to several educational institutions and training centers"
+                    },
+                    {
+                        "title": "Future Development",
+                        "description": "Included in Vizag's expansion plans with upcoming infrastructure projects"
+                    }
+                ],
+                "about": "Kothavalasa is a rapidly developing town located between Vizianagaram and Visakhapatnam, known for its strategic railway junction. The area is transforming into a residential and commercial hub, offering affordable real estate options with good growth potential. Its connectivity advantages and planned infrastructure developments make it an attractive investment destination.",
+                "developmentPlans": "Kothavalasa is part of the Visakhapatnam Metropolitan Region Development Authority's expansion plans. Key developments include road widening projects, new commercial complexes, and improved public amenities. The area is also seeing growth in educational institutions and healthcare facilities to support the increasing population.",
+                "investmentPotential": "Kothavalasa offers excellent investment opportunities with relatively lower entry prices compared to central Visakhapatnam. The area is expected to benefit from the spillover effect of Vizag's growth, with property values projected to appreciate steadily. Its railway connectivity makes it particularly attractive for commuters and logistics-related businesses.",
+                "connectivity": "Kothavalasa boasts excellent connectivity via both rail and road. The town is located on the NH16 (Chennai-Kolkata Highway) and serves as an important railway junction. It's approximately 30km from Visakhapatnam city center and 20km from Vizianagaram. The proposed regional ring road will further enhance its connectivity to surrounding areas.",
+                "projects": {
+                    "Kohinoor Hills": {
+                        "description": "Kohinoor Hills brings you the essence of serene countryside living combined with modern comforts, located just minutes away from Vizianagaram and major transport corridors.",
+                        "benefits": "Kohinoor Hills provides affordable luxury with natural surroundings and rapid connectivity improvements via new road and rail infrastructure.",
+                        "features": [
+                            "Plots and villas with scenic views",
+                            "Clubhouse and multipurpose hall",
+                            "Dedicated walking and cycling tracks",
+                            "24/7 water and power supply",
+                            "Underground drainage system"
+                        ],
+                        "connectivity": [
+                            "10 mins to Vizianagaram town",
+                            "30 mins to Bhogapuram Airport",
+                            "Close to proposed industrial corridor"
+                        ],
+                        "investment": [
+                            "Rising land prices due to industrial zone expansion",
+                            "Affordable entry price with strong growth potential",
+                            "Ideal for both residential and investment buyers"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.591999918727!2d83.293!3d17.841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a395e6ef69bb3a5%3A0x36d8d099b45e2f34!2sKothavalasa%2C%20Andhra%20Pradesh!5e0!3m2!1sen!2sin!4v1743760034444!5m2!1sen!2sin",
+                        "images": [
+                            "img/Kothavalasa/image1.jpg",
+                            "img/Kothavalasa/image2.jpg",
+                            "img/Kothavalasa/image3.jpg",
+                            "img/Kothavalasa/image4.jpg",
+                            "img/Kothavalasa/image5.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_KOHINOOR_HILLS",
+                        "videoThumbnail": "videos/kohinoor-hills-preview.mp4"
+                    }
+                }
+            },
+            "thagarapuvalasa": {
+                "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw_rfStNoQiomuOsEIvObMC8aLLnBftWI5MqEaj4flM-JBfINS1YNHOU7Q4Ihmk4DdhnXJ5bsQjm39fJ1DaF_BM832nPePJEb2T3yOM3PfOyecs1pqDCxRZwgfKVHSuKqgmtjpzfw=w540-h312-n-k-no",
+                "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18011.489843876458!2d83.41476916042159!3d17.929591294551148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3957fbf0d96603%3A0x92dd8aaa38b7481c!2sThagarapuvalasa%2C%20Andhra%20Pradesh!5e1!3m2!1sen!2sin!4v1743794504691!5m2!1sen!2sin",
+                "keypoints": [
+                    {
+                        "title": "Industrial Growth",
+                        "description": "Proximity to major industrial areas and manufacturing units"
+                    },
+                    {
+                        "title": "Affordable Housing",
+                        "description": "Offers budget-friendly residential options near Visakhapatnam"
+                    },
+                    {
+                        "title": "Transportation Hub",
+                        "description": "Well-connected by road and near important highway junctions"
+                    },
+                    {
+                        "title": "Emerging Commercial Center",
+                        "description": "Developing as a local commercial hub for surrounding areas"
+                    },
+                    {
+                        "title": "Future Infrastructure",
+                        "description": "Included in regional development plans with upcoming projects"
+                    }
+                ],
+                "about": "Thagarapuvalasa is an emerging locality on the outskirts of Visakhapatnam, gaining attention for its industrial proximity and affordable real estate options. The area is witnessing steady growth as more people look for budget-friendly housing options near the city. With planned infrastructure developments and improving amenities, Thagarapuvalasa presents promising opportunities for both end-users and investors.",
+                "developmentPlans": "The Andhra Pradesh government has identified Thagarapuvalasa as part of the Visakhapatnam Metropolitan Region expansion. Key developments include road improvements, water supply projects, and new commercial zones. The area is also slated for new educational institutions and healthcare facilities to support the growing residential population.",
+                "investmentPotential": "Thagarapuvalasa offers attractive investment potential with relatively lower property prices compared to central Visakhapatnam locations. The area is expected to benefit from the city's expansion and industrial growth, with steady appreciation anticipated over the medium to long term. Its affordability makes it particularly appealing for first-time homebuyers and small investors.",
+                "connectivity": "Thagarapuvalasa enjoys good road connectivity via state highways and is well-linked to Visakhapatnam city center (approximately 25km away). The area is served by regular bus services and has easy access to major employment hubs. Future road widening projects and proposed public transport improvements will further enhance its accessibility.",
+                "projects": {
+                    "Thagarapuvalasa Residency": {
+                        "description": "Affordable residential project offering quality homes at competitive prices in the developing Thagarapuvalasa area.",
+                        "benefits": "Budget-friendly housing with good amenities and future growth potential near industrial zones.",
+                        "features": [
+                            "Affordable Apartments",
+                            "Basic Amenities",
+                            "Green Spaces",
+                            "24/7 Security",
+                            "Adequate Parking",
+                            "Community Hall"
+                        ],
+                        "connectivity": [
+                            "Connected to Industrial Areas",
+                            "Public Transport Available",
+                            "Near Highway Junctions",
+                            "Access to Local Markets"
+                        ],
+                        "investment": [
+                            "Low Entry Cost",
+                            "Steady Appreciation",
+                            "Rental Potential",
+                            "Industrial Area Proximity"
+                        ],
+                        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18011.489843876458!2d83.41476916042159!3d17.929591294551148!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3957fbf0d96603%3A0x92dd8aaa38b7481c!2sThagarapuvalasa%2C%20Andhra%20Pradesh!5e1!3m2!1sen!2sin!4v1743794504691!5m2!1sen!2sin",
+                        "images": [
+                            "img/Thagarapuvalasa/image1.jpg",
+                            "img/Thagarapuvalasa/image2.jpg",
+                            "img/Thagarapuvalasa/image3.jpg"
+                        ],
+                        "brochureUrl": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID_FOR_THAGARAPUVALASA_RESIDENCY",
+                        "videoThumbnail": "videos/thagarapuvalasa-residency-preview.mp4"
+                    }
+                }
+            }
+        }
+    }
+}
