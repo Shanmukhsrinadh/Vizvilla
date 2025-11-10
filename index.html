@@ -351,6 +351,22 @@
     <!-- EmailJS -->
     <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
     <script src="contact.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const toggleButton = document.getElementById('toggle-button');
+            const amaravathiCard = document.getElementById('amaravathi-card');
+
+            if (toggleButton && amaravathiCard) {
+                toggleButton.addEventListener('click', function () {
+                    amaravathiCard.classList.toggle('hidden-card');
+                    toggleButton.textContent = amaravathiCard.classList.contains('hidden-card')
+                        ? 'Show More'
+                        : 'Show Less';
+                });
+            }
+        });
+    </script>
+
 </body>
 
 </html>
